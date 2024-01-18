@@ -1,0 +1,7 @@
+BUILD
+.mbed
+mbed-os
+Grove_LCD_RGB_Backlight
+compile_commands.json
+.clangd
+.cache
